@@ -1,6 +1,6 @@
 ---
 title: "Vladimir Samoylov"
-date: 2018-11-19T10:47:58+10:00
+date: 2023-11-24T10:47:58+10:00
 draft: false
 image: "images/team/vladimir-samoylov.webp"
 jobtitle: "Founder"
