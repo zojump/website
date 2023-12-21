@@ -2,7 +2,7 @@
 title: "Patchranan Aekpatcha"
 date: 2023-11-24T10:47:58+10:00
 draft: false
-image: "images/team/patchranan-aekpatcha.png"
+image: "images/team/patchranan-aekpatcha.jpg"
 jobtitle: "Accounting Partner"
 linkedinurl: "https://www.linkedin.com"
 promoted: true
